@@ -3,8 +3,6 @@
 `jobberwocky` app is a service that works as a store for job opportunities where
 companies can share open positions
 
-This project is using [scrapy](https://fastapi.tiangolo.com/) as a web framework.
-
 <!-- GETTING STARTED -->
 ## Getting Started
 ***
