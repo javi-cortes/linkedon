@@ -17,13 +17,13 @@ In order to run the project you will need the following:
 ***
 1. Rewrite **.env.example** to your own **.env** with the webpage you wanna obtain the
 images from
-2. Execute make up to bring all the project up to life
+2. Execute make up to bring all the project up to life:
 ```bash
 make up
 ```
 3. Navigate [local-jobberwocky](http://localhost:8000/docs#/jobs) to check docs
 and try the API
-4. If you want to pre-populate the DB you can use
+4. If you want to pre-populate the DB you can use the following command: 
 ```bash
 make dummy_data
 ```
