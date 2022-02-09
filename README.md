@@ -13,7 +13,7 @@ In order to run the project you will need the following:
 * [docker-compose](https://docs.docker.com/compose/)
 * [GNU Make](https://www.gnu.org/software/make/)
 
-## How to
+## How to run the project
 ***
 1. Rewrite .env.example to your own .env with the webpage you wanna obtain the
 images from
