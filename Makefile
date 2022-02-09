@@ -32,7 +32,7 @@ build:
 	@$(dkc) build
 
 test:
-	@$(dkc) run app python -m unittest discover
+	@$(dkc) run app pytest tests
 
 psql:
 	@# TODO: use env vars here
